@@ -15,6 +15,8 @@ with a Bachelor of Engineering degree in Artificial Intelligence.
 After graduation, I spent one and half year working as a risk and quantitative analyst in a commodity trading house and 
 completed a Master of Computing degree at National University of Singapore (NUS).
 
+[My CV is here.](http://xingxuanli.github.io/files/cv_lixingxuan.pdf)
+
 News
 ====
 * Test
