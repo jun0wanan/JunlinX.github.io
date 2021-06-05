@@ -1,15 +1,28 @@
 ---
-title: "Paper Title Number 1"
+title: "YEDDA: A Lightweight Collaborative Text Span Annotation Tool"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2018-07-15-acl-yedda
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2018-07-15
+venue: 'ACL 2018'
+paperurl: 'https://www.aclweb.org/anthology/P18-4006.pdf'
+<!-- citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this paper, we introduce YEDDA, a
+lightweight but efficient and comprehensive open-source tool for text span annotation. YEDDA provides a systematic
+solution for text span annotation, ranging from collaborative user annotation to
+administrator evaluation and analysis. It
+overcomes the low efficiency of traditional
+text annotation tools by annotating entities
+through both command line and shortcut
+keys, which are configurable with custom
+labels. YEDDA also gives intelligent recommendations by learning the up-to-date
+annotated text. An administrator client
+is developed to evaluate annotation quality of multiple annotators and generate detailed comparison report for each annotator pair. Experiments show that the proposed system can reduce the annotation
+time by half compared with existing annotation tools. And the annotation time can
+be further compressed by 16.47% through
+intelligent recommendation.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.aclweb.org/anthology/P18-4006.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
