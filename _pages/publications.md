@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## 2018
 
-{% include base_path %}
+**[YEDDA: A Lightweight Collaborative Text Span Annotation Tool]** <br>
+Jie Yang, Yue Zhang, Linwei Li, **Xingxuan Li** <br>
+In _Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (**ACL'18**)_ <br>
+[Paper](http://xingxuanli.github.io/files/2018-07-15-acl-yedda.pdf)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
