@@ -7,4 +7,4 @@ author_profile: true
 
 ## 2018
 
-**[10.007 Modelling The System World](https://academics.sutd.edu.sg/science-math/courses/10007-modelling-systems-world)**
+**[10.007 Modelling The System World](https://academics.sutd.edu.sg/science-math/courses/10007-modelling-systems-world)** (Jan-Apr 2018)
