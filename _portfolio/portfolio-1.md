@@ -1,6 +1,6 @@
 ---
 title: "iMMe"
-excerpt: "An integrated systsem for Know-Your-Customer (KYC) verification<br/><img src='/images/500x300.png'>"
+excerpt: "An integrated systsem for Know-Your-Customer (KYC) verification<br/><img src='/images/projects/imme.png'>"
 collection: portfolio
 ---
 
