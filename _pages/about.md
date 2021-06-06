@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I am a ...
+I am a ...
 
-Before my PhD journey, I graduated from Information Systems Technology and Design (ISTD) at Singapore University of Technology and Design (SUTD),
+Before my PhD journey, I graduated from [Information Systems Technology and Design (ISTD)](https://istd.sutd.edu.sg/) at [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/),
 with a Bachelor of Engineering degree in Artificial Intelligence.
 After graduation, I spent one and half year working as a risk and quantitative analyst in a commodity trading house and 
-completed a Master of Computing degree at National University of Singapore (NUS). -->
+completed a Master of Computing degree at [National University of Singapore (NUS)](https://www.comp.nus.edu.sg/).
 
 Under construction...
 
