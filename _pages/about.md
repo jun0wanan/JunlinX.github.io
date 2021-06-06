@@ -24,5 +24,5 @@ News
 * Test
 
 <div align="center">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=N_xEFBEwpQfbPYu2LUGSWXNkZVJYkwCV8yS_L3UKptU&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=N_xEFBEwpQfbPYu2LUGSWXNkZVJYkwCV8yS_L3UKptU&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 </div>
