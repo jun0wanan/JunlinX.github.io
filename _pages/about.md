@@ -23,5 +23,6 @@ News
 ====
 * Test
 
-
+<div align="center">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=N_xEFBEwpQfbPYu2LUGSWXNkZVJYkwCV8yS_L3UKptU&cl=ffffff&w=a"></script>
+</div>
