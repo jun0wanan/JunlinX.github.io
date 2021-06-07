@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a ...
+I am a PhD candidate in Alibaba DAMO Academy and Nanyang Technological University.
 
 Before my PhD journey, I graduated from [Information Systems Technology and Design (ISTD)](https://istd.sutd.edu.sg/) at [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/),
 with a Bachelor of Engineering degree in Artificial Intelligence.
