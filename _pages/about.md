@@ -21,7 +21,7 @@ completed a Master of Computing degree at [National University of Singapore (NUS
 
 News
 ====
-* Test
+* 2-Aug-2021 - My first day at Alibaba!
 
 <br />
 <br />
