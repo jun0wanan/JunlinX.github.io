@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Alibaba DAMO Academy and Nanyang Technological University. <!-- supervised by ... -->
+I am a PhD candidate in Nanyang Technological University and Alibaba DAMO Academy, supervised by [Asst Prof Shafiq Joty](https://raihanjoty.github.io) and [Dr Bing Lidong](https://lidongbing.github.io).
 
 Before my PhD journey, I graduated from [Information Systems Technology and Design (ISTD)](https://istd.sutd.edu.sg/) at [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/),
 with a Bachelor of Engineering degree in Artificial Intelligence.
