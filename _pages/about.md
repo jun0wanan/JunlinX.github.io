@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in [NTU-NLP](https://ntunlpsg.github.io) at Nanyang Technological University and [Language Technology Lab](https://damo.alibaba.com/labs/language-technology) at Alibaba DAMO Academy, supervised by [Asst. Prof. Shafiq Joty](https://raihanjoty.github.io) and [Dr. Bing Lidong](https://lidongbing.github.io).
+I am a PhD candidate in [NTU-NLP](https://ntunlpsg.github.io) at Nanyang Technological University and [Language Technology Lab](https://damo.alibaba.com/labs/language-technology) at Alibaba DAMO Academy, supervised by [Assoc. Prof. Shafiq Joty](https://raihanjoty.github.io) and [Dr. Bing Lidong](https://lidongbing.github.io).
 
 Before my PhD journey, I graduated from [Computer Science and Design (CSD)](https://istd.sutd.edu.sg/) at [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/),
 with a Bachelor of Engineering degree in Artificial Intelligence.
