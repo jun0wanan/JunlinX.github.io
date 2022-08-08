@@ -11,9 +11,9 @@ title                    : "Xie Junlin"
 title_separator          : "-"
 name                     : &name "Xie Junlin"
 description              : &description "M.S. student at Zhejiang University "
-url                      : https://junlinx_wanan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jun0wanan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jun0wanan/junlinx_wanan.github.io"
+repository               : "jun0wanan/jun0wanan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
