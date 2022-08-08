@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Xingxuan"
+title                    : "Xie Junlin"
 title_separator          : "-"
-name                     : &name "Li Xingxuan"
-description              : &description "CS PhD student at Alibaba DAMO Academy and Nanyang Technological University"
+name                     : &name "Xie Junlin"
+description              : &description "CS MS student at Zhejiang University"
 url                      : https://xingxuanli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xingxuanli/lixingxuan.github.io"
+repository               : "jun0wanan/jun0wanan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
