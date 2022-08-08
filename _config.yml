@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Xingxuan"
+title                    : "Xie Junlin"
 title_separator          : "-"
-name                     : &name "Li Xingxuan"
-description              : &description "CS PhD student at Alibaba DAMO Academy and Nanyang Technological University"
-url                      : https://xingxuanli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xie Junlin"
+description              : &description "M.S. student at Zhejiang University "
+url                      : https://JunlinX.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xingxuanli/lixingxuan.github.io"
+repository               : "jun0wanan/JunlinX.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Li Xingxuan"
+  name             : "Xie Junlin"
   avatar           : "https://avatars.githubusercontent.com/u/34134504?s=400&u=e4319e9487a78e1edcee1e9666e3501c1e23ca6f&v=4"
-  bio              : "CS PhD student on NLP"
-  location         : "Alibaba DAMO Academy"
-  employer         : "Nanyang Technological University"
+  bio              : "CS M.S. student on "
+  location         : "Zhejiang"
+  employer         : "Zhejiang University"
   pubmed           : 
-  googlescholar    : "https://github.com/xingxuanli"
-  email            : "xingxuan001@ntu.edu.sg"
+  googlescholar    : "https://github.com/jun0wanan"
+  email            : "junlinxie@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xingxuanli"
+  github           : "jun0wanan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "xingxuan-li/"
+  linkedin         : "junlin-xie/"
   orcid            : 
   pinterest        :
   soundcloud       :
