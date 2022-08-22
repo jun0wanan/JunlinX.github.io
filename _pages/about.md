@@ -20,8 +20,15 @@ After graduation , I was successfully recommended to Zhejiang University as a ma
 
 Publications
 ====
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='https://avatars.githubusercontent.com/u/54523624?s=40&v=4' alt="sym" width="100%"></div></div>
+ <div class='paper-box-text' markdown="1">
+[Compositional temporal grounding with structured variational cross-graph correspondence learning](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Compositional_Temporal_Grounding_With_Structured_Variational_Cross-Graph_Correspondence_Learning_CVPR_2022_paper.html) \\
+Juncheng Li, **Junlin Xie**, Long Qian, Linchao Zhu, Siliang Tang, Fei Wu, Yi Yang, Yueting Zhuang, Xin Eric Wang
 
-**[Compositional temporal grounding with structured variational cross-graph correspondence learning]([https://www.aclweb.org/anthology/P18-4006/](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Compositional_Temporal_Grounding_With_Structured_Variational_Cross-Graph_Correspondence_Learning_CVPR_2022_paper.html))** <br>
+</div>
+</div> 
+
+ **[Compositional temporal grounding with structured variational cross-graph correspondence learning](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Compositional_Temporal_Grounding_With_Structured_Variational_Cross-Graph_Correspondence_Learning_CVPR_2022_paper.html)** <br>
 Juncheng Li, **Junlin Xie**, Long Qian, Linchao Zhu, Siliang Tang, Fei Wu, Yi Yang, Yueting Zhuang, Xin Eric Wang <br>
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR'22)** <br>
 
