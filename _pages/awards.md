@@ -5,12 +5,16 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Academic
-* Alibaba Talent Programme (2021-2025)
-* Best Demo Paper Nomination in ACL (2018)
-* SUTD Design and Engineering Scholarship (2015-2019)
-* MOE SM2 Scholarship (2015-2019)
+## Algorithm related
+* China University Computer competition —— National Team Bronze Award (2019)
+* “Internet plus” Innovation and Entrepreneurship Competition —— silver award （2019）
 
+
+
+## Mathematics related
+* Mathematical Competition In Modeling （MCM ）—— Honorable Mention (2019)
+* The 9th National Mathematics Competition for College Students —— The first prize（2019）
 
 ## Others
-* NUS I&E Practicum @ SoC, $10,000 (2020)
+* President Scholarship **(top 3%)** (2019)
+* Wangtongchuan Scholarship $10,000 **(1/386)** (2020)
