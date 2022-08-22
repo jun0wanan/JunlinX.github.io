@@ -18,8 +18,8 @@ After graduation , I was successfully recommended to Zhejiang University as a ma
 
 [My CV is here.](http://xingxuanli.github.io/files/cv_lixingxuan.pdf)
 
-Publications
-====
+# 📝 Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/junlin.png' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
 [Compositional temporal grounding with structured variational cross-graph correspondence learning](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Compositional_Temporal_Grounding_With_Structured_Variational_Cross-Graph_Correspondence_Learning_CVPR_2022_paper.html) \\
@@ -37,8 +37,8 @@ Juncheng Li, **Junlin Xie**, Linchao Zhu, Long Qian, Siliang Tang, Wenqiao Zhang
 ACM Multimedia  **(MM'22)** <br> 
 
 
-Awards
-====
+#  Awards
+
 
 
 * China University Computer competition —— National Team Bronze Award (2019)
@@ -49,8 +49,8 @@ Awards
 * Wangtongchuan Scholarship $10,000 **(1/386)** (2020)
 
 
-News
-====
+#  News
+
 * Aug-2021 - Join [DCD]([https://ntunlpsg.github.io](https://person.zju.edu.cn/yzhuang#582305)) at ZJU.
 
 
