@@ -18,10 +18,6 @@ After graduation , I was successfully recommended to Zhejiang University as a ma
 
 [My CV is here.](http://xingxuanli.github.io/files/cv_lixingxuan.pdf)
 
-News
-====
-* Aug-2021 - Join [DCD]([https://ntunlpsg.github.io](https://person.zju.edu.cn/yzhuang#582305)) at ZJU.
-
 Publications
 ====
 
@@ -37,20 +33,18 @@ ACM Multimedia  **(MM'22)** <br>
 Awards
 ====
 
-### Algorithm related
+
 * China University Computer competition —— National Team Bronze Award (2019)
 * “Internet plus” Innovation and Entrepreneurship Competition —— silver award （2019）
-
-
-
-### Mathematics related
 * Mathematical Competition In Modeling （MCM ）—— Honorable Mention (2019)
 * The 9th National Mathematics Competition for College Students —— The first prize（2019）
-
-### Others
 * President Scholarship **(top 3%)** (2019)
 * Wangtongchuan Scholarship $10,000 **(1/386)** (2020)
 
+
+News
+====
+* Aug-2021 - Join [DCD]([https://ntunlpsg.github.io](https://person.zju.edu.cn/yzhuang#582305)) at ZJU.
 
 
 <br />
